@@ -1,5 +1,4 @@
 # gogu-chat
-[![latest-tag](https://github.com/rzvpoi/gogu-chat/releases/tag/v1.0.0)
 An unofficial desktop app for [Google Chat](http://chat.google.com) built with [Electron](https://www.electronjs.org)
 
 ### Motivation
